@@ -1,4 +1,10 @@
-*, *:before, *:after {
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+*,
+*:before,
+*:after {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
